@@ -13,4 +13,4 @@ This script was made as a cheat, yeah you heard me right. Due to tasks on tryhac
   
 # Installation
 
-Type the commande:   git clone [<link_to_repository>](https://github.com/ZenithGenius/TryhackmeNumCheat.git)
+Type the commande:   git clone https://github.com/ZenithGenius/TryhackmeNumCheat.git
